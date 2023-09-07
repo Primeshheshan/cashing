@@ -1,6 +1,5 @@
 # NestJS Redis Starter
 
-
 This is a NestJS project template that demonstrates how to integrate Redis into your NestJS application. Redis is a powerful in-memory data store that can be used for caching, session management, and more.
 
 ## Features
@@ -20,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/nestjs-redis-starter.git
+git clone https://github.com/Primeshheshan/cashing.git
 cd caching
 ```
 
